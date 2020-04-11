@@ -1,0 +1,43 @@
+Usability and user experience(ux) are critical
+
+Basic questions to be answered are
+where am i (using breadcrumbs)
+where can i go(using navigation)
+what is here
+
+Navigation is important for UX
+it can be hierarchial where general to specific
+it can be global where we can move to the home page from anywhere
+it can be local where navigation occurs in same page
+
+wireframing
+drawing the hierarchy of the website
+
+Breadcrumbs
+Used to find where we are in the hierarchy
+if we are in lol.html breadcrumb can be
+home->about->new->lol
+Consider album website
+home -> albums -> album1 -> photos
+
+Decide on relative or absolute links
+
+Rules for good design
+User experience must come before any code is written and must be consistent
+    Who are the users? How to present info better?
+    What is the page about?
+    How long does it take for users to understand what content is on the page
+    The website might look good but user has no idea about what the content is so keep that in mind - Edward Tufte deceptive pages
+Simplicity
+    What is it? news or product
+    Where can i get it?
+        Minimum number of clicks to get to content
+    Why is it here?
+        Get rid of useless content(if you cannot understand why you have used color just leave it to white)
+        Dont use color just because it looks nice
+
+To summarize
+Give users what they want quickly
+Be consistent
+Dont pad website with images color etc which do not have proper meaning
+
