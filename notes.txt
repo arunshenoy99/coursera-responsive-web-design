@@ -41,3 +41,6 @@ Give users what they want quickly
 Be consistent
 Dont pad website with images color etc which do not have proper meaning
 
+Content and structure
+HTML tags give the structure
+The content can keep changing and hence to prevent repetetion of code we must have a way to create templates
